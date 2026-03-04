@@ -1,6 +1,6 @@
 # Security Policy
 
-This repository implements components of a Merkle‑based Proof‑of‑Reserves verification system.  
+This repository implements components of a Merkle-based Proof-of-Reserves verification system.  
 Because the code interacts with cryptographic primitives, hashing, and user‑provided configuration files, we maintain strict security expectations for contributors and users.
 
 ---

@@ -11,7 +11,7 @@ Security updates are provided only for actively maintained branches.
 
 | Version | Status |
 |--------|--------|
-| master | Supported |
+| main | Supported |
 | dev / feature branches | Supported (best‑effort) |
 | archived tags | Not supported |
 

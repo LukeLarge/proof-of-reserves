@@ -45,8 +45,7 @@ please report it privately.
 
 Send an email to:
 
-**security@<your‑org‑domain>.com**  
-(Replace with your actual security inbox.)
+**security@example.com**
 
 Include:
 
